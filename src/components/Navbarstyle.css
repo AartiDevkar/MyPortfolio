@@ -27,6 +27,10 @@
 .myname{
     word-spacing: 5px;
 }
+.hamburger{
+    display:none;
+}
+
 
 @media screen and (max-width:1040px) {
     .nav-menu{
